@@ -3,14 +3,14 @@
 ## Tech Stack
 2lambda123/algo is built on the following main stack:
 
-- [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
-- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- [Python](https://www.python.org) – Languages
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Python](https://www.python.org) – Languages
+- [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -20,14 +20,14 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/algo is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
-- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
-- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/663/ElOjna20.png' alt='Ansible'/> [Ansible](http://www.ansible.com/) – Server Configuration and Automation
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/768/150px-Vagrant.png' alt='Vagrant'/> [Vagrant](http://www.vagrantup.com/) – Virtual Machine Management
+- <img width='25' height='25' src='https://img.stackshare.io/service/295/Onjxs6Lw_400x400.jpg' alt='DigitalOcean'/> [DigitalOcean](https://www.digitalocean.com/) – Cloud Hosting
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/algo](https://github.com/2lambda123/algo)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|11<br/>Tools used|01/09/24 <br/>Report generated|
+|11<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
